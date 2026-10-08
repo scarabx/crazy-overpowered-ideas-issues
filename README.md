@@ -31,4 +31,4 @@ Screenshots help, especially for anything about crafting on the ground or the re
 
 ## Suggestions
 
-Welcome, in the same place. Say what the idea is and roughly how you imagine it working in game.
+Welcome, in the same place. Say what the idea is and how you imagine it working in game.

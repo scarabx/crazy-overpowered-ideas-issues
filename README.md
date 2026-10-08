@@ -31,5 +31,8 @@ Screenshots help, especially for anything about crafting on the ground or the re
 
 ## Suggestions
 
-Welcome, in the same place. Say what the idea is and what it would be for; "what problem does this
-solve" is more useful than a list of features.
+Very welcome, and in the same place — this mod is largely made of them. Say what you would like to
+see and roughly how you imagine it working in game. Half-formed is fine; most of what is in here
+started as "wouldn't it be cool if".
+
+No promise that everything gets built, but everything gets read.

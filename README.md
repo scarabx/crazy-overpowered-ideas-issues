@@ -10,7 +10,7 @@ anyone can report a problem without joining anything.
 
 ## Reporting a bug
 
-[Open an issue.](https://github.com/scarabx/crazy-overpowered-ideas-issues/issues/new) Please
+[Open an issue.](https://github.com/scarabx/crazy-overpowered-ideas-issues/issues/new/choose) Please
 include:
 
 1. **The COPI version** — it is on the mod's page in-game and in the file name, e.g. `0.2.0+1.20.1`
